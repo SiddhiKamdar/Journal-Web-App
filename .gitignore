@@ -1,0 +1,43 @@
+# Node.js
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+
+# Logs
+logs
+*.log
+logs/*.log
+
+# MongoDB
+*.seed
+*.json
+
+# Frontend build files
+frontend/build/
+frontend/dist/
+
+# Misc
+.vscode/
+.DS_Store
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# MacOS
+*.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# IDEs
+.idea/
+*.iml
+
+# Backup files
+*.bak
+*.swp

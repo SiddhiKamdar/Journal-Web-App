@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Josefin+Slab:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Cutive+Mono&display=swap');
+.App{
+  min-height: 100vh;
+  display: flex;
+  /* background-color: rgba(20, 19, 19, 0.948); */
+}
+.swal2-popup {
+  background-color: black !important;
+  color: white; /* Change background color to black */
+}
+
